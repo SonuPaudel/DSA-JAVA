@@ -6,7 +6,7 @@ package Recursion;
 import java.util.Scanner;
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class SumNaturalTail {
     public int sum(int n,int res){
