@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class PowerTailed {
     public int power(int num,int pow,int res){
