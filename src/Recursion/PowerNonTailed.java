@@ -6,7 +6,7 @@ package Recursion;
 import java.util.Scanner;
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class PowerNonTailed {
     public int power(int num,int pow){
