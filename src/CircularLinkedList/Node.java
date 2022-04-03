@@ -6,7 +6,7 @@ package CircularLinkedList;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class Node {
     int data;   
