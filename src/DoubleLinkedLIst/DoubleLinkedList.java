@@ -6,7 +6,7 @@ package DoubleLinkedLIst;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class DoubleLinkedList {
     public Node head,tail;
