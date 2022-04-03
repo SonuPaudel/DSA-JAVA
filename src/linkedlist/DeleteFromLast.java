@@ -6,7 +6,7 @@ package linkedlist;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class DeleteFromLast {
      public Node head,tail;
