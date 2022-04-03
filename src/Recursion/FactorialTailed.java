@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class FactorialTailed {
     public int factorial(int n,int result){
