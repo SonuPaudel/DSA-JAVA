@@ -6,7 +6,7 @@ package tree;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class TreeNode {
     int data;
