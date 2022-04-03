@@ -6,7 +6,7 @@ package linkedlist;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class SingleLinkAddAtFirst {
     public Node head,tail;
