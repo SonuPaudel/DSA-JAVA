@@ -6,7 +6,7 @@ package StackQueue;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class QueueLinkedListImp1 {
     Node front,rear;
