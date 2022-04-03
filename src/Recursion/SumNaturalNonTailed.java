@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class SumNaturalNonTailed {
     public int sum(int n){
