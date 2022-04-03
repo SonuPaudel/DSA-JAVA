@@ -6,7 +6,7 @@ package StackQueue;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class LinkedListStack {
     Node top;
