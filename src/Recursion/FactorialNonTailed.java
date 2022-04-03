@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class FactorialNonTailed {
     public int factorial(int n){
