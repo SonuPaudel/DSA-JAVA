@@ -6,7 +6,7 @@ package StackQueue;
 
 /**
  *
- * @author RITX
+ * @author sonu
  */
 public class QueueArrayImp {
     private int front,rear;
