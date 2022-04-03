@@ -7,7 +7,7 @@ package linkedlist;
 
 /**
  *
- * @author Administrator
+ * @author sonu
  */
 public class Node {
     int data;
